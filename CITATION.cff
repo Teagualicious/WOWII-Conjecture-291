@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite this repository when using its independently obtained finite witness or verification materials."
+title: "An Independent Counterexample to WOWII Conjecture 291"
+type: dataset
+authors:
+  - family-names: "Teagualicious"
+repository-code: "https://github.com/Teagualicious/WOWII-Conjecture-291"
+url: "https://github.com/Teagualicious/WOWII-Conjecture-291"
+license: MIT
+version: "1.0.0"
+date-released: 2026-07-23
+keywords:
+  - graph theory
+  - total domination
+  - Havel-Hakimi
+  - counterexample
+  - Written on the Wall II
+abstract: >-
+  An alternative, independently obtained 12-vertex, 25-edge finite witness
+  refuting WOWII Conjecture 291, with machine-readable graph data and a
+  dependency-free verification script. This repository makes no claim of first
+  discovery or publication priority. An earlier public 12-vertex, 21-edge
+  counterexample and infinite family were posted in google-deepmind/formal-conjectures
+  issue #4562.
+references:
+  - type: generic
+    title: "Counterexample to Written on the Wall II Conjecture 291"
+    authors:
+      - family-names: "vulnix0x4"
+    url: "https://github.com/google-deepmind/formal-conjectures/issues/4562"
+    notes: "Earlier public counterexample and infinite family; the smallest member has 12 vertices and 21 edges."
